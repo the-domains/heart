@@ -1,19 +1,4 @@
-name: heart
-favicon: null
-layout_spectrum: 0.4878277324605733
 typography_spectrum: 0.25292530143633485
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8735121020581573
   saturation: 0.7290898703504354
   rhythmicContrast: 0.7260457070078701
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4878277324605733
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: heart
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Heart
 purpose: []
